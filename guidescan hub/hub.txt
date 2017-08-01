@@ -1,0 +1,4 @@
+hub GenomeTracksSummerProject
+longLabel Genome Tracks Summer Project
+genomesFile genomes.txt
+email eigavrila@email.wm.edu
