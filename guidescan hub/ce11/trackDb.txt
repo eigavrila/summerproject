@@ -1,5 +1,5 @@
 track ce11_1e4
-bigDataUrl BigBedce11.bb
+bigDataUrl ce11.bb
 shortLabel ce11 track
 type bigBed
 visibility dense
