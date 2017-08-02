@@ -1,5 +1,5 @@
 track mm10_1e4
-bigDataUrl BigBedmm10.bb
+bigDataUrl mm10.bb
 shortLabel mm10 track
 type bigBed
 visibility dense
